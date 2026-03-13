@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there 👋 I'm Praful
 
-<!--
-**Ninja-cloud-sorce/Ninja-cloud-sorce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🧠 Solved 380+ LeetCode Problems  
+🚀 Interested in building scalable systems and AI-powered applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🚦 Traffic Prediction System
+Machine learning system predicting traffic congestion using LSTM time-series forecasting.
+
+**Tech:** Python, Keras, Pandas, Streamlit
+
+---
+
+### 🌍 AI Travel Planner
+Full-stack web application that generates personalized travel itineraries with map visualization.
+
+**Tech:** React, Node.js, Firebase, OpenStreetMap
+
+---
+
+### 📚 Kanji Learning App
+Interactive web application for learning Japanese Kanji and improving language retention.
+
+**Tech:** TypeScript, React
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+Java • JavaScript • Python • SQL  
+
+**Frontend:**  
+React • HTML • CSS • Tailwind  
+
+**Backend:**  
+Node.js • Express  
+
+**Databases:**  
+MongoDB • Firebase • MySQL  
+
+**AI / ML:**  
+TensorFlow • Keras • NLP
+
+---
+
+## 📊 Coding Profile
+
+• Solved **380+ LeetCode problems**  
+• Strong in **Trees, Dynamic Programming, Graphs, Binary Search**
+
+---
+
+⭐ Always exploring new technologies and building projects.
