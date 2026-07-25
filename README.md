@@ -1,9 +1,8 @@
 # Hi there 👋 I'm Praful
 
 💻 Full Stack Developer  
-🧠 Solved 380+ LeetCode Problems  
-🚀 Interested in building scalable systems and AI-powered applications  
-
+🧠 Solved 500+ LeetCode Problems  
+🚀 Interested in building scalable systems and AI-powered applications 5
 ---
 
 ### 📚 Kanji Learning App
@@ -50,7 +49,7 @@ TensorFlow • Keras • NLP
 
 ## 📊 Coding Profile
 
-• Solved **380+ LeetCode problems**  
+• Solved **500+ LeetCode problems**  
 • Strong in **Trees, Dynamic Programming, Graphs, Binary Search**
 
 ---
