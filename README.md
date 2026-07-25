@@ -61,6 +61,16 @@ TensorFlow • Keras • NLP
 
 ---
 
+## 🕹 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./pacman/pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./pacman/pacman-light.svg" />
+  <img alt="pac-man contribution graph" src="./pacman/pacman-light.svg" />
+</picture>
+
+---
+
 ## 📈 GitHub Contributions
 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
