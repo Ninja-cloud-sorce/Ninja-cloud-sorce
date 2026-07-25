@@ -75,8 +75,3 @@ Machine learning system predicting traffic congestion using LSTM time-series for
   <img alt="pac-man contribution graph" src="./pacman/pacman-light.svg" />
 </picture>
 
----
-
-## 📈 GitHub Contributions
-
-![](./profile-3d-contrib/profile-south-season-animate.svg)
