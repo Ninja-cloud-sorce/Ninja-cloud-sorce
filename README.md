@@ -6,12 +6,10 @@
 
 ---
 
-## 🚀 Featured Projects
+### 📚 Kanji Learning App
+Interactive web application for learning Japanese Kanji and improving language retention.
 
-### 🚦 Traffic Prediction System
-Machine learning system predicting traffic congestion using LSTM time-series forecasting.
-
-**Tech:** Python, Keras, Pandas, Streamlit
+**Tech:** TypeScript, React
 
 ---
 
@@ -22,10 +20,12 @@ Full-stack web application that generates personalized travel itineraries with m
 
 ---
 
-### 📚 Kanji Learning App
-Interactive web application for learning Japanese Kanji and improving language retention.
+## 🚀 Featured Projects
 
-**Tech:** TypeScript, React
+### 🚦 Traffic Prediction System
+Machine learning system predicting traffic congestion using LSTM time-series forecasting.
+
+**Tech:** Python, Keras, Pandas, Streamlit
 
 ---
 
