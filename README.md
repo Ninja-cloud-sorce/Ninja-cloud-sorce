@@ -67,17 +67,6 @@ Machine learning system predicting traffic congestion using LSTM time-series for
 
 ---
 
-## 📊 Coding Profile
-
-• Solved **500+ LeetCode problems**  
-• Strong in **Trees, Dynamic Programming, Graphs, Binary Search**
-
----
-
-⭐ Always exploring new technologies and building projects.
-
----
-
 ## 🕹 Pac-Man Contribution Graph
 
 <picture>
