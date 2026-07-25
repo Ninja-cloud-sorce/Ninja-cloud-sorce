@@ -5,6 +5,7 @@
 🧠 Solved 500+ LeetCode Problems  
 
 🚀 Interested in building scalable systems and AI-powered applications 5
+
 ---
 
 ### 📚 Kanji Learning App
