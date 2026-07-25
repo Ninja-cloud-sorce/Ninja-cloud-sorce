@@ -1,7 +1,9 @@
 # Hi there 👋 I'm Praful
 
-💻 Full Stack Developer  
+💻 Full Stack Developer 
+
 🧠 Solved 500+ LeetCode Problems  
+
 🚀 Interested in building scalable systems and AI-powered applications 5
 ---
 
