@@ -58,3 +58,9 @@ TensorFlow • Keras • NLP
 ---
 
 ⭐ Always exploring new technologies and building projects.
+
+---
+
+## 📈 GitHub Contributions
+
+![](./profile-3d-contrib/profile-south-season-animate.svg)
