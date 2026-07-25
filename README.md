@@ -26,17 +26,17 @@
 
 ## 🚀 Featured Projects
 
-### 📱 Compass — AI Journaling App *(Swift / iOS)*
-iOS journaling app with North Star goal tracking, Gemini AI analysis, and handwriting OCR capture.
-
-**Tech:** Swift · SwiftUI · Firebase · Supabase · Gemini AI
-
----
-
 ### 📚 Kanji Learning App
 Interactive web application for learning Japanese Kanji and improving language retention.
 
 **Tech:** TypeScript · React
+
+---
+
+### 📱 Compass — AI Journaling App *(Swift / iOS)*
+iOS journaling app with North Star goal tracking, Gemini AI analysis, and handwriting OCR capture.
+
+**Tech:** Swift · SwiftUI · Firebase · Supabase · Gemini AI
 
 ---
 
