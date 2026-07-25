@@ -50,19 +50,6 @@ TensorFlow • Keras • NLP
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ninja-cloud-sorce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninja-cloud-sorce&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ninja-cloud-sorce&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📊 Coding Profile
 
 • Solved **500+ LeetCode problems**  
