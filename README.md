@@ -1,9 +1,11 @@
-# Hi there 👋 I'm Praful
-
 <p align="center">
   <a href="https://github.com/Ninja-cloud-sorce">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=iOS+%26+Mobile+Developer+📱;Building+AI-Powered+Apps+🤖;Swift+%7C+SwiftUI+%7C+Firebase;500%2B+LeetCode+Problems+Solved+🧠;Always+Exploring+New+Tech+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&height=60&lines=Hey+there!+I'm+Praful+👋;Full+Stack+Developer+💻;Learning+Swift+%26+iOS+Development+📱;Building+AI-Powered+Apps+🤖;500%2B+LeetCode+Problems+🧠" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ninja-cloud-sorce&style=flat-square&color=36BCF7" alt="profile views" />
 </p>
 
 ---
@@ -12,11 +14,11 @@
 
 | Category | Technologies |
 |---|---|
-| **Mobile** | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0886FE?style=flat&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=white) |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) |
-| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini_AI-8E75B2?style=flat&logo=google&logoColor=white) |
+| **Mobile (Learning)** | ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0886FE?style=flat&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=white) |
+| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![Gemini AI](https://img.shields.io/badge/-Gemini_AI-8E75B2?style=flat&logo=google&logoColor=white) |
 | **Cloud & DB** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
 
@@ -24,7 +26,7 @@
 
 ## 🚀 Featured Projects
 
-### 📱 Compass — AI Journaling App
+### 📱 Compass — AI Journaling App *(Swift / iOS)*
 iOS journaling app with North Star goal tracking, Gemini AI analysis, and handwriting OCR capture.
 
 **Tech:** Swift · SwiftUI · Firebase · Supabase · Gemini AI
