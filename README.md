@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Ninja-cloud-sorce">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&height=60&lines=Hey+there!+I'm+Praful+👋;Full+Stack+Developer+💻;Learning+Swift+%26+iOS+Development+📱;Building+AI-Powered+Apps+🤖;500%2B+LeetCode+Problems+🧠" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&height=60&lines=Hey+there!+I'm+Praful+👋;Full+Stack+Developer+💻;500%2B+LeetCode+Problems+🧠" alt="Typing SVG" />
   </a>
 </p>
 
