@@ -67,7 +67,7 @@ Machine learning system predicting traffic congestion using LSTM time-series for
 
 ---
 
-## 🕹 Pac-Man Contribution Graph
+## 🕹 Snake Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./pacman/pacman-dark.svg" />
